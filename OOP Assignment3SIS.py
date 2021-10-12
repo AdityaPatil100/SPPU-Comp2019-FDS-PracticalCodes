@@ -55,7 +55,7 @@ student::student()
 {
 name="Shri Krishna Vasudev Yadav";
 address="Dwarka";
-year="SE COMPUTER";
+year="Sprituality since 3228 BCE";
 div='B';
 roll_no=06;
 mob=8057668733;
@@ -63,7 +63,7 @@ mob=8057668733;
 person::person()
 {
 lic="124523";
-dob="09/02/2002";
+dob="19th July 3228 BCE";
 bldgrp="O+";
 }
 
