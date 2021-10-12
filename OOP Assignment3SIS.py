@@ -53,17 +53,17 @@ cout<<"......Record Deleted Successfully......"<<endl;
 int student ::cnt;
 student::student()
 {
-name="Shri Krishna Vasudev Yadav";
-address="Dwarka";
-year="Sprituality since 3228 BCE";
+name="Ram";
+address="Ayodhya";
+year="SE Computer";
 div='B';
 roll_no=06;
-mob=8057668733;
+mob=8057768733;
 }
 person::person()
 {
 lic="124523";
-dob="19th July 3228 BCE";
+dob="01/01/2001";
 bldgrp="O+";
 }
 
